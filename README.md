@@ -1,2 +1,2 @@
 # Bookbot
-This is my first program.
+Hello! This is my first program.
